@@ -50,6 +50,12 @@ Performance was acceptable across all parameters
 
 ---
 
+## Model link
+
+https://drive.google.com/file/d/1JvjKWmPBvd5oXULM8kgsT8pWpnE7Cr3N/view?usp=sharing
+
+---
+
 ## Internship Details
 
 - **Internship Type**: AICTE Virtual Internship - Edunet Foundation
